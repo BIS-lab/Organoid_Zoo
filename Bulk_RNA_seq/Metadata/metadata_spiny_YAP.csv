@@ -1,0 +1,7 @@
+sample,file,Condition
+SMC1,./0_result_spiny/star_salmon/SMC1/quant.sf,SMC
+SMC2,./0_result_spiny/star_salmon/SMC2/quant.sf,SMC
+SMC3,./0_result_spiny/star_salmon/SMC3/quant.sf,SMC
+SMP1,./0_result_spiny/star_salmon/SMP1/quant.sf,SMP
+SMP2,./0_result_spiny/star_salmon/SMP2/quant.sf,SMP
+SMP3,./0_result_spiny/star_salmon/SMP3/quant.sf,SMP

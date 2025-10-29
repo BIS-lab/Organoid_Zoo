@@ -1,0 +1,11 @@
+nextflow run nf-core/rnaseq -r 3.18.0 \
+--input mouse_samplesheet.csv \
+-profile docker \
+--save_reference true \
+--igenomes_ignore \
+--genome null \
+-c my.config \
+--outdir './0_result_mouse' \
+--fasta Mus_musculus.GRCm38.dna.toplevel.fa.gz \
+--gtf Mus_musculus.GRCm38.100.gtf.gz \
+-resume

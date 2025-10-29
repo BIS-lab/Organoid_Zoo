@@ -1,0 +1,11 @@
+nextflow run nf-core/rnaseq -r 3.18.0 \
+--input spiny_samplesheet.csv \
+-profile docker \
+--save_reference true \
+--igenomes_ignore \
+--genome null \
+-c my.config \
+--outdir './0_result_spiny' \
+--fasta acahirinus.fa \
+--gtf acahirinus.gtf \
+-resume

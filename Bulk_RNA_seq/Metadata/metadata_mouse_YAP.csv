@@ -1,0 +1,7 @@
+sample,file,Condition
+MC1,./0_result_mouse/star_salmon/MC1/quant.sf,MC
+MC2,./0_result_mouse/star_salmon/MC2/quant.sf,MC
+MC3,./0_result_mouse/star_salmon/MC3/quant.sf,MC
+MP1,./0_result_mouse/star_salmon/MP1/quant.sf,MP
+MP2,./0_result_mouse/star_salmon/MP2/quant.sf,MP
+MP3,./0_result_mouse/star_salmon/MP3/quant.sf,MP
