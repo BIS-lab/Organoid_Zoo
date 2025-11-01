@@ -94,7 +94,7 @@ compute_dss_ll4 <- function(conc, viability,
 # ===========================
 cols_div <- colorRampPalette(rev(brewer.pal(11, "Spectral")))(100)
 
-df <- read_csv("/vol/data/drug_screen/drug_screening_simple_251016.csv", col_types = cols()) %>%
+df <- read_csv("../data/drug_screening_data.csv", col_types = cols()) %>%
   mutate(
     `Concentration (µM)` = str_replace_all(`Concentration (µM)`, ",", "."),
     Concentration = as.numeric(`Concentration (µM)`),
