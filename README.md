@@ -1,7 +1,7 @@
 # Intestinal organoid zoo of 26 species reveals conserved and divergent programs of biology
 
 This repository accompanies our study establishing a **“organoid zoo”** of adult stem cell–derived intestinal organoids from 26 vertebrate species, providing a unified experimental and analytical platform to explore regeneration, evolution, and host–pathogen interactions across mammals and birds.
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17501594.svg)](https://doi.org/10.5281/zenodo.17501594)
 ---
 
 ## Overview
